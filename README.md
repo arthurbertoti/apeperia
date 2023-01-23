@@ -1,2 +1,2 @@
 # apeperia
- Curso Layouts Responsivos: trabalhando com layouts mobile
+Curso Layouts Responsivos: trabalhando com layouts mobile
